@@ -1,4 +1,5 @@
 # Food project
+Preview: https://nikitaklimuk.github.io/Food-project/
 
 SPA for ordering healthy meals, with calorie calculator, slider, message form and discount number.
 
